@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JctRPoPODLM=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Raycaster\\Raycaster\\Raycaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LambertR\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\LambertR\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
