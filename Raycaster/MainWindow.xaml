@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Raycaster"
         mc:Ignorable="d"
-        Title="MainWindow" Height="675" Width="900" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="675" Width="900" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None">
     <Canvas Name="mainCanv">
 
     </Canvas>

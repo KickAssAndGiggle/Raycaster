@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\russe\\Source\\Repos\\Raycaster\\Raycaster\\Raycaster.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\russe\\Source\\Repos\\Raycaster\\Raycaster\\Raycaster.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\russe\\Source\\Repos\\Raycaster\\Raycaster\\Raycaster.csproj",
+        "projectName": "Raycaster",
+        "projectPath": "C:\\Users\\russe\\Source\\Repos\\Raycaster\\Raycaster\\Raycaster.csproj",
+        "packagesPath": "C:\\Users\\russe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\russe\\Source\\Repos\\Raycaster\\Raycaster\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\russe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
